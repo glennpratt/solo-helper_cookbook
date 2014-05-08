@@ -1,6 +1,5 @@
 name              "solo-helper"
-maintainer        "AllPlayers.com, Inc."
-maintainer_email  "glenn@allplayers,com"
+maintainer        "Glenn Pratt"
 license           "Apache 2.0"
 description       "Help running *-quick-start Chef repos on chef-solo and Vagrant."
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
