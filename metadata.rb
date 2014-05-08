@@ -1,3 +1,4 @@
+name              "solo-helper"
 maintainer        "AllPlayers.com, Inc."
 maintainer_email  "glenn@allplayers,com"
 license           "Apache 2.0"
